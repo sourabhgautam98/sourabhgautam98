@@ -10,7 +10,7 @@
 
 - 📫 How to reach me [Gmail](gautamsourabh444@gmail.com)
 
-- 📙 Check out my [Resume](https://sourabhgautam.vercel.app/](https://drive.google.com/file/d/1wniQ7d6Z8CA0Axk5NY7NRv6uhI6gIMg_/view)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1wniQ7d6Z8CA0Axk5NY7NRv6uhI6gIMg_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
