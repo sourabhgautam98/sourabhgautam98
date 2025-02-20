@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [Website](https://sourabhgautam.vercel.app/)
 
-- 💬 Ask me about **Figma,React**
+- 💬 Ask me about **Figma,React,Next.js**
 
-- 📫 How to reach me [Gmail](gautamsourabh444@gmail.com)
+- 📫 How to reach me [Gmail](gautamsourabh98@gmail.com)
 
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1wniQ7d6Z8CA0Axk5NY7NRv6uhI6gIMg_/view)
+- 📙 Check out my [Resume]([https://drive.google.com/file/d/1wniQ7d6Z8CA0Axk5NY7NRv6uhI6gIMg_/view](https://drive.google.com/file/d/1A4BqrJ4U9rqMQ1QWJ3huWwW-Y9oNTrEo/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
