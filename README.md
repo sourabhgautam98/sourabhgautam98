@@ -1,68 +1,80 @@
-<h1 align="center"> Namaste 🙏, I'm Sourabh Gautam</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sourabhgautam98&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhgautam98" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,30&height=200&section=header&text=Sourab%20Gautam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20·%20MERN%20%2B%20GenAI&descAlignY=75&descSize=16&descColor=ffffffaa" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [Website](https://portfolio-sourabh-gautam.vercel.app/)
+</div>
 
-- 💬 Ask me about **Figma, React, Next.js, Tailwind, Node.js, Express.js, MongoDB**
+<div align="center">
 
-- 📫 How to reach me [Gmail](mailto:gautamsourabh98@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Building+interfaces+that+feel+alive+%E2%9C%A8;Wiring+AI+into+everything+I+ship+%F0%9F%A4%96;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%F0%9F%9A%80;Open+to+Work+%E2%80%94+Let%27s+build+something+great!)](https://git.io/typing-svg)
 
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1cdWQVSsbI7Yr2eF-LVSW272VylF-tCXG/view?usp=sharing)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sourabhgautam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabhgautam" height="30" width="40" />
-  </a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logoColor=white)](https://portfolio-sourabh-gautam.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabhgautam)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamsourabh98@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11qz8vHmFyXpkqVF94CC6O5uX_0tsRWT2/view)
+[![Profile Views](https://komarev.com/ghpvc/?username=sourabhgautam98&color=7C3AED&style=for-the-badge&label=VIEWS)](https://github.com/sourabhgautam98)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```typescript
+const sourab = {
+  name     : "Sourab Gautam",
+  role     : "Full Stack Developer",
+  stack    : ["React", "Next.js", "Node.js", "MongoDB", "GenAI"],
+  location : "Jaipur, India 🇮🇳",
+  status   : "Open to Work ✅",
+  passion  : "Building AI-powered products that actually ship",
+  contact  : "gautamsourabh98@gmail.com",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1CD3A2?style=for-the-badge&logo=langchain&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-7B5EA7?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+
+</div>
